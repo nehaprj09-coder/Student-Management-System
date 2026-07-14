@@ -1,0 +1,3 @@
+com\mycompany\academicapp\AcademicApp.class
+com\mycompany\academicapp\ACDBConnection.class
+com\mycompany\academicapp\StudentDAO.class
